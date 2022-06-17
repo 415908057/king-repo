@@ -11,7 +11,5 @@ public class Hello {
         System.out.println("Hello");
         System.out.println("Hello");
         System.out.println("Hello");
-        System.out.println("-----------------");
-        System.out.println("IDEA添加");
     }
 }
