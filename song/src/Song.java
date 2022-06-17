@@ -10,6 +10,6 @@ public class Song {
         //增加
         System.out.println("增加");
         //增加2
-        System.out.println("增加");
+        System.out.println("增加2");
     }
 }
